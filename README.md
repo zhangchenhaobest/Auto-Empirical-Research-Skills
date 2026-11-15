@@ -1,3 +1,29 @@
+# Auto-Empirical-Research-Skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A curated library of 23,000+ agent skills for empirical research across eight social science disciplines.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+精选 23,000+ AI Agent 技能库，覆盖 8 大社会科学学科的实证研究。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/Auto-Empirical-Research-Skills?style=social)](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
